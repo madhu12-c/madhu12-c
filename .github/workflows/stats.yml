@@ -8,6 +8,7 @@ on:
     branches: [ main ]
     paths-ignore:
       - "assets/stats-panel.svg"
+      - "assets/heatmap-panel.svg"
 
 permissions:
   contents: write
@@ -32,6 +33,6 @@ jobs:
         run: |
           git config user.name "madhu12-c"
           git config user.email "mchanda2006@gmail.com"
-          git add assets/stats-panel.svg
+          git add assets/stats-panel.svg assets/heatmap-panel.svg
           git diff --cached --quiet || git commit -m "refresh stats panel"
           git push
