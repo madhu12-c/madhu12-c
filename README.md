@@ -65,7 +65,7 @@ you can play on this board, right now, on my profile. click an empty square, pre
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=madhu12-c&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=39D353&sideLabels=8B949E&dates=484F58&stroke=30363D" alt="contribution streak"/>
+  <img src="assets/heatmap-panel.svg" width="880" alt="contribution heatmap and streaks, drawn by the stats engine in this repo"/>
 </div>
 
 <br/>
