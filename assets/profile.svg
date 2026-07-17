@@ -1,0 +1,38 @@
+<svg viewBox="0 0 880 300" width="880" height="300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="profile.yml">
+  <style>
+    text { font-family: 'Cascadia Code', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace; font-size: 14px; }
+    .bar { font-size: 11px; fill: #484f58; }
+    .k { fill: #39d353; }
+    .p { fill: #8b949e; }
+    .v { fill: #e6edf3; }
+  </style>
+  <defs>
+    <clipPath id="ptype">
+      <rect x="24" y="48" height="22" width="0">
+        <animate attributeName="width" from="0" to="300" begin="0.3s" dur="0.7s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="299" rx="6" fill="#0d1117" stroke="#30363d"/>
+  <path d="M 0.5 6.5 a 6 6 0 0 1 6 -6 h 867 a 6 6 0 0 1 6 6 v 25.5 h -879 z" fill="#161b22"/>
+  <circle cx="22" cy="16" r="5" fill="#30363d"/>
+  <circle cx="42" cy="16" r="5" fill="#30363d"/>
+  <circle cx="62" cy="16" r="5" fill="#30363d"/>
+  <text x="440" y="21" text-anchor="middle" class="bar">madhu@github: ~/about</text>
+
+  <text x="24" y="64" clip-path="url(#ptype)"><tspan class="k">$</tspan><tspan class="v"> cat profile.yml</tspan></text>
+
+  <text x="24" y="98" opacity="0"><tspan class="k">name</tspan><tspan class="p">: </tspan><tspan class="v">Madhusudan Chanda</tspan><animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.2s" fill="freeze"/></text>
+  <text x="24" y="122" opacity="0"><tspan class="k">degree</tspan><tspan class="p">: </tspan><tspan class="v">B.E. in AI and Data Science, VCET (class of 2028)</tspan><animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.2s" fill="freeze"/></text>
+  <text x="24" y="146" opacity="0"><tspan class="k">builds</tspan><tspan class="p">: </tspan><tspan class="v">full-stack products with machine learning inside</tspan><animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.2s" fill="freeze"/></text>
+  <text x="24" y="170" opacity="0"><tspan class="k">stack</tspan><tspan class="p">: [</tspan><tspan class="v">python, typescript, react, node, mongodb</tspan><tspan class="p">]</tspan><animate attributeName="opacity" from="0" to="1" begin="1.65s" dur="0.2s" fill="freeze"/></text>
+  <text x="24" y="194" opacity="0"><tspan class="k">hackathons</tspan><tspan class="p">: [</tspan><tspan class="v">BNB-2025, TechBlitz-26, KaalChakra</tspan><tspan class="p">]</tspan><animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.2s" fill="freeze"/></text>
+  <text x="24" y="218" opacity="0"><tspan class="k">now_building</tspan><tspan class="p">: </tspan><tspan class="v">ARA, an AI astrology platform </tspan><tspan class="p">(private)</tspan><animate attributeName="opacity" from="0" to="1" begin="1.95s" dur="0.2s" fill="freeze"/></text>
+  <text x="24" y="242" opacity="0"><tspan class="k">fun_fact</tspan><tspan class="p">: </tspan><tspan class="v">the graph counts my private repos too, their code stays sealed</tspan><animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.2s" fill="freeze"/></text>
+
+  <text x="24" y="278" opacity="0"><tspan class="k">$</tspan><animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.2s" fill="freeze"/></text>
+  <rect x="42" y="264" width="9" height="17" fill="#e6edf3" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.51;1" dur="1.1s" begin="2.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
