@@ -1,0 +1,9 @@
+<svg viewBox="0 0 64 64" width="64" height="64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="X">
+  <rect x="1" y="1" width="62" height="62" rx="8" fill="#0d1117" stroke="#39d353" stroke-width="2"/>
+  <line x1="19" y1="19" x2="45" y2="45" stroke="#39d353" stroke-width="7" stroke-linecap="round" stroke-dasharray="37" stroke-dashoffset="37">
+    <animate attributeName="stroke-dashoffset" from="37" to="0" begin="0.1s" dur="0.3s" fill="freeze"/>
+  </line>
+  <line x1="45" y1="19" x2="19" y2="45" stroke="#39d353" stroke-width="7" stroke-linecap="round" stroke-dasharray="37" stroke-dashoffset="37">
+    <animate attributeName="stroke-dashoffset" from="37" to="0" begin="0.4s" dur="0.3s" fill="freeze"/>
+  </line>
+</svg>

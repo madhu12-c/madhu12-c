@@ -26,6 +26,36 @@
 
 > the most ambitious work (ARA, client automation tools) ships from private repos. ask about it.
 
+### <samp>$ ./tictactoe --the-internet-vs-my-bot</samp>
+
+you can play on this board, right now, on my profile. click an empty square, press submit on the issue github opens, and a github action plays my bot's answer within a minute. refresh to see the board move.
+
+<!-- TTT:START -->
+<div align="center">
+
+**the internet** 0 | **my bot** 0 | draws 0
+
+</div>
+
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C1&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 1"/></a></td>
+    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C2&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 2"/></a></td>
+    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C3&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 3"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C4&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 4"/></a></td>
+    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C5&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 5"/></a></td>
+    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C6&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 6"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C7&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 7"/></a></td>
+    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C8&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 8"/></a></td>
+    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C9&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 9"/></a></td>
+  </tr>
+</table>
+<!-- TTT:END -->
+
 ### <samp>$ ./stats --daily</samp>
 
 <div align="center">
@@ -36,12 +66,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=madhu12-c&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=39D353&sideLabels=8B949E&dates=484F58&stroke=30363D" alt="contribution streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu12-c&bg_color=0d1117&color=8b949e&line=39d353&point=e6edf3&area=true&area_color=0e4429&hide_border=true" width="880" alt="activity graph"/>
 </div>
 
 <br/>

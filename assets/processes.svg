@@ -172,7 +172,7 @@
   </g>
   <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.10s" dur="0.25s" fill="freeze"/>
     <text x="24" y="300" class="nm">aws / docker</text>
-    <text x="400" y="300" class="up"><1y</text>
+    <text x="400" y="300" class="up">&lt;1y</text>
     <rect x="520" y="289" width="12" height="12" rx="2" fill="#26a641"/>
     <rect x="536" y="289" width="12" height="12" rx="2" fill="#26a641"/>
     <rect x="552" y="289" width="12" height="12" rx="2" fill="#26a641"/>
