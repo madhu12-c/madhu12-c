@@ -41,7 +41,7 @@ last game: a draw, final move by [@madhu12-c](https://github.com/madhu12-c)
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C1&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 1"/></a></td>
+    <td><img src="assets/ttt/x.svg" width="70" alt="X"/></td>
     <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C2&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 2"/></a></td>
     <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C3&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 3"/></a></td>
   </tr>
@@ -53,11 +53,11 @@ last game: a draw, final move by [@madhu12-c](https://github.com/madhu12-c)
   <tr>
     <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C7&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 7"/></a></td>
     <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C8&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 8"/></a></td>
-    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C9&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 9"/></a></td>
+    <td><img src="assets/ttt/o.svg" width="70" alt="O"/></td>
   </tr>
 </table>
 
-<div align="center"><sub>recent players: [@madhu12-c](https://github.com/madhu12-c)</sub></div>
+<div align="center"><sub>recent players: [@Krutikakhamkar-7](https://github.com/Krutikakhamkar-7), [@madhu12-c](https://github.com/madhu12-c)</sub></div>
 <!-- TTT:END -->
 
 ### <samp>$ ./stats --daily</samp>

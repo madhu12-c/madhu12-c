@@ -1,6 +1,6 @@
 {
   "board": [
-    "",
+    "X",
     "",
     "",
     "",
@@ -8,13 +8,14 @@
     "X",
     "",
     "",
-    ""
+    "O"
   ],
   "internet_wins": 0,
   "bot_wins": 0,
   "draws": 1,
   "last_result": "last game: a draw, final move by [@madhu12-c](https://github.com/madhu12-c)",
   "recent": [
+    "Krutikakhamkar-7",
     "madhu12-c"
   ]
 }
