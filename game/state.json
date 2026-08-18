@@ -3,10 +3,10 @@
     "X",
     "",
     "",
-    "",
+    "O",
     "O",
     "X",
-    "",
+    "X",
     "",
     "O"
   ],
@@ -15,7 +15,7 @@
   "draws": 1,
   "last_result": "last game: a draw, final move by [@madhu12-c](https://github.com/madhu12-c)",
   "recent": [
-    "Krutikakhamkar-7",
-    "madhu12-c"
+    "madhu12-c",
+    "Krutikakhamkar-7"
   ]
 }
