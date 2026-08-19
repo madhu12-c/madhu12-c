@@ -41,13 +41,13 @@ last game: a draw, final move by [@Naman3120-Web](https://github.com/Naman3120-W
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C1&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 1"/></a></td>
+    <td><img src="assets/ttt/x.svg" width="70" alt="X"/></td>
     <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C2&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 2"/></a></td>
     <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C3&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 3"/></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C4&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 4"/></a></td>
-    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C5&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 5"/></a></td>
+    <td><img src="assets/ttt/o.svg" width="70" alt="O"/></td>
     <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C6&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 6"/></a></td>
   </tr>
   <tr>
