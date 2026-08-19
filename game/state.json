@@ -1,8 +1,8 @@
 {
   "board": [
     "X",
-    "",
-    "",
+    "O",
+    "X",
     "O",
     "O",
     "X",
@@ -15,6 +15,7 @@
   "draws": 1,
   "last_result": "last game: a draw, final move by [@madhu12-c](https://github.com/madhu12-c)",
   "recent": [
+    "truwan77",
     "madhu12-c",
     "Krutikakhamkar-7"
   ]
