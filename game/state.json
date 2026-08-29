@@ -5,19 +5,19 @@
     "",
     "O",
     "O",
-    "",
+    "X",
     "X",
     "",
-    ""
+    "O"
   ],
   "internet_wins": 0,
   "bot_wins": 0,
   "draws": 2,
   "last_result": "last game: a draw, final move by [@Naman3120-Web](https://github.com/Naman3120-Web)",
   "recent": [
+    "madhu12-c",
     "Naman3120-Web",
     "truwan77",
-    "madhu12-c",
     "Krutikakhamkar-7"
   ]
 }
