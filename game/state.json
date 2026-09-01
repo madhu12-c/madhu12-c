@@ -1,18 +1,18 @@
 {
   "board": [
-    "O",
     "",
-    "X",
-    "X",
-    "O",
-    "O",
-    "O",
-    "X",
-    "X"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "internet_wins": 0,
   "bot_wins": 0,
-  "draws": 3,
+  "draws": 4,
   "last_result": "last game: a draw, final move by [@madhu12-c](https://github.com/madhu12-c)",
   "recent": [
     "madhu12-c",
