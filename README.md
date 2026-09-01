@@ -51,8 +51,8 @@ last game: a draw, final move by [@madhu12-c](https://github.com/madhu12-c)
     <td><img src="assets/ttt/o.svg" width="70" alt="O"/></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C7&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 7"/></a></td>
-    <td><a href="https://github.com/madhu12-c/madhu12-c/issues/new?title=ttt%7C8&body=press+submit+and+my+bot+will+answer+within+a+minute.+then+check+the+board+again."><img src="assets/ttt/empty.svg" width="70" alt="play square 8"/></a></td>
+    <td><img src="assets/ttt/o.svg" width="70" alt="O"/></td>
+    <td><img src="assets/ttt/x.svg" width="70" alt="X"/></td>
     <td><img src="assets/ttt/x.svg" width="70" alt="X"/></td>
   </tr>
 </table>
