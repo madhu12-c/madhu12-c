@@ -1,19 +1,19 @@
 {
   "board": [
-    "X",
-    "O",
-    "X",
-    "O",
-    "O",
-    "X",
-    "X",
     "",
-    "O"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "internet_wins": 0,
   "bot_wins": 0,
-  "draws": 2,
-  "last_result": "last game: a draw, final move by [@Naman3120-Web](https://github.com/Naman3120-Web)",
+  "draws": 3,
+  "last_result": "last game: a draw, final move by [@madhu12-c](https://github.com/madhu12-c)",
   "recent": [
     "madhu12-c",
     "Naman3120-Web",
